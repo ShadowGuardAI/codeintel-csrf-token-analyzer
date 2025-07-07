@@ -1,0 +1,4 @@
+bandit>=1.0.0
+flake8>=1.0.0
+pylint>=1.0.0
+pyre-check>=1.0.0
